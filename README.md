@@ -1,1 +1,1 @@
-# epo-ruby-desafio-patrones-y-ciclos-anidados
+# repo-ruby-desafio-patrones-y-ciclos-anidados
